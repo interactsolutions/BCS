@@ -1,0 +1,11 @@
+{
+  "appTitle": "WheatCampaign Dashboard",
+  "welcomeMessage": "Welcome to the WheatCampaign data portal",
+  "filterLabel.year": "Year",
+  "filterLabel.region": "Region",
+  "kpi.totalYield": "Total Yield",
+  "kpi.totalYield.unit": "tons",
+  "session.title": "Sessions",
+  "session.noData": "No sessions available",
+  "...": "..."
+}
