@@ -1,0 +1,11 @@
+{
+  "appTitle": "Panel de WheatCampaign",
+  "welcomeMessage": "Bienvenido al portal de datos WheatCampaign",
+  "filterLabel.year": "Año",
+  "filterLabel.region": "Región",
+  "kpi.totalYield": "Producción Total",
+  "kpi.totalYield.unit": "toneladas",
+  "session.title": "Sesiones",
+  "session.noData": "No hay sesiones disponibles",
+  "...": "..."
+}
